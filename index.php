@@ -1,2 +1,2 @@
 <?php
-phpingoz();
+phpinfo();
